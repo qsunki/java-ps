@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BOJ_1043_거짓말/BOJ_1043_거짓말.iml" filepath="$PROJECT_DIR$/BOJ_1043_거짓말/BOJ_1043_거짓말.iml" />
       <module fileurl="file://$PROJECT_DIR$/BOJ_1717_집합의표현/BOJ_1717_집합의표현.iml" filepath="$PROJECT_DIR$/BOJ_1717_집합의표현/BOJ_1717_집합의표현.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_ps.iml" filepath="$PROJECT_DIR$/java_ps.iml" />
     </modules>
