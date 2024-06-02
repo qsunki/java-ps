@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BOJ_1043_거짓말/BOJ_1043_거짓말.iml" filepath="$PROJECT_DIR$/BOJ_1043_거짓말/BOJ_1043_거짓말.iml" />
       <module fileurl="file://$PROJECT_DIR$/BOJ_1717_집합의표현/BOJ_1717_집합의표현.iml" filepath="$PROJECT_DIR$/BOJ_1717_집합의표현/BOJ_1717_집합의표현.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BOJ_1939_중량제한/BOJ_1939_중량제한.iml" filepath="$PROJECT_DIR$/BOJ_1939_중량제한/BOJ_1939_중량제한.iml" />
       <module fileurl="file://$PROJECT_DIR$/BOJ_20040_사이클게임/BOJ_20040_사이클게임.iml" filepath="$PROJECT_DIR$/BOJ_20040_사이클게임/BOJ_20040_사이클게임.iml" />
       <module fileurl="file://$PROJECT_DIR$/BOJ_4195_친구네트워크/BOJ_4195_친구네트워크.iml" filepath="$PROJECT_DIR$/BOJ_4195_친구네트워크/BOJ_4195_친구네트워크.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_ps.iml" filepath="$PROJECT_DIR$/java_ps.iml" />
