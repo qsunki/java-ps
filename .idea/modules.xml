@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BOJ_1028_다이아몬드광산/BOJ_1028_다이아몬드광산.iml" filepath="$PROJECT_DIR$/BOJ_1028_다이아몬드광산/BOJ_1028_다이아몬드광산.iml" />
       <module fileurl="file://$PROJECT_DIR$/BOJ_10423_전기가부족해/BOJ_10423_전기가부족해.iml" filepath="$PROJECT_DIR$/BOJ_10423_전기가부족해/BOJ_10423_전기가부족해.iml" />
       <module fileurl="file://$PROJECT_DIR$/BOJ_1043_거짓말/BOJ_1043_거짓말.iml" filepath="$PROJECT_DIR$/BOJ_1043_거짓말/BOJ_1043_거짓말.iml" />
       <module fileurl="file://$PROJECT_DIR$/BOJ_11057_오르막수/BOJ_11057_오르막수.iml" filepath="$PROJECT_DIR$/BOJ_11057_오르막수/BOJ_11057_오르막수.iml" />
