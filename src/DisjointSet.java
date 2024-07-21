@@ -1,8 +1,8 @@
-import java.util.Arrays;
+import java.util.*;
 
 public class DisjointSet {
-    private int n;
-    private int[] parent;
+    int n;
+    int[] parent;
 
     DisjointSet(int n) {
         this.n = n;
