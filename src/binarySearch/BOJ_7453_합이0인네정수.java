@@ -1,7 +1,9 @@
+package binarySearch;
+
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class BOJ_7453_합이0인네정수 {
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringBuilder sb = new StringBuilder();
     static StringTokenizer st;

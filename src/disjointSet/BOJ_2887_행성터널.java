@@ -1,7 +1,9 @@
+package disjointSet;
+
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class BOJ_2887_행성터널 {
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringBuilder sb = new StringBuilder();
     static StringTokenizer st;
