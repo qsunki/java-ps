@@ -1,7 +1,9 @@
+package graphSearch;
+
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class BOJ_1167_트리의지름 {
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringBuilder sb = new StringBuilder();
     static StringTokenizer st;

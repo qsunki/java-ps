@@ -1,6 +1,8 @@
+package dp;
+
 import java.io.*;
 
-public class Main {
+public class BOJ_1309_동물원 {
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
     static int n;
