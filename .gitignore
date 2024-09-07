@@ -29,3 +29,5 @@ bin/
 .DS_Store
 
 src/Main.java
+.idea/
+*.iml
