@@ -30,5 +30,6 @@ bin/
 
 src/Main.java
 src/Test.java
+src/Tmp*
 .idea/
 *.iml
