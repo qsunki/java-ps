@@ -1,8 +1,6 @@
-package graphSearch;
+package graphsearch;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
+import java.io.*;
 import java.util.*;
 
 /**
@@ -66,6 +64,17 @@ public class BOJ_5214_환승 {
         return -1;
     }
 
+    static String next() throws IOException {
+        while (st == null || !st.hasMoreTokens()) {
+            st = new StringTokenizer(br.readLine());
+        }
+        return st.nextToken();
+    }
+
+    static int nextInt() throws IOException {
+        return Integer.parseInt(next());
+    }
+
     static class Node {
         int u;
         int cnt;
@@ -88,16 +97,5 @@ public class BOJ_5214_환승 {
         void addNode(int node) {
             nodes.add(node);
         }
-    }
-
-    static String next() throws IOException {
-        while (st == null || !st.hasMoreTokens()) {
-            st = new StringTokenizer(br.readLine());
-        }
-        return st.nextToken();
-    }
-
-    static int nextInt() throws IOException {
-        return Integer.parseInt(next());
     }
 }

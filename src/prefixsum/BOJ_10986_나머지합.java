@@ -1,4 +1,4 @@
-package prefixSum;
+package prefixsum;
 
 import java.io.*;
 import java.util.*;

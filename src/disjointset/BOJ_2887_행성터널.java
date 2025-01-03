@@ -1,4 +1,4 @@
-package disjointSet;
+package disjointset;
 
 import java.io.*;
 import java.util.*;

@@ -1,4 +1,4 @@
-package topologicalSort;
+package topologicalsort;
 
 import java.io.*;
 import java.util.*;

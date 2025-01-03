@@ -1,8 +1,6 @@
-package topologicalSort;
+package topologicalsort;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
+import java.io.*;
 import java.util.*;
 
 public class BOJ_2637_장난감조립 {
@@ -50,16 +48,6 @@ public class BOJ_2637_장난감조립 {
         System.out.println(sb);
     }
 
-    static class Edge {
-        int to;
-        int cnt;
-
-        Edge(int to, int cnt) {
-            this.to = to;
-            this.cnt = cnt;
-        }
-    }
-
     static String next() throws IOException {
         while (st == null || !st.hasMoreTokens()) {
             st = new StringTokenizer(br.readLine());
@@ -69,5 +57,15 @@ public class BOJ_2637_장난감조립 {
 
     static int nextInt() throws IOException {
         return Integer.parseInt(next());
+    }
+
+    static class Edge {
+        int to;
+        int cnt;
+
+        Edge(int to, int cnt) {
+            this.to = to;
+            this.cnt = cnt;
+        }
     }
 }

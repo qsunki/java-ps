@@ -1,11 +1,7 @@
-package graphSearch;
+package graphsearch;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.ArrayDeque;
-import java.util.Queue;
-import java.util.StringTokenizer;
+import java.io.*;
+import java.util.*;
 
 /*
  * 이동거리 1부터 시작
